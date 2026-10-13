@@ -1,0 +1,23 @@
+# Executables / Binaries
+web_server
+emergency_system
+
+# Compiled Object Files
+*.o
+*.a
+*.so
+*.dylib
+
+# Database file (Each member generates their own locally)
+dispatch_system.db
+
+# macOS System Files
+.DS_Store
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Locally compiled MedEvac server
+server
+sqlite3.o
